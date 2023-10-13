@@ -1,4 +1,4 @@
-# Simple_Calculator
+# Simple_Calculator Android App 
 
 SimpleCalc is a lightweight and user-friendly Android application designed for basic mathematical operations. This calculator app allows users to input two numbers and perform addition, subtraction, multiplication, and division operations with ease. Its intuitive interface and quick results make it a handy tool for quick calculations on the go.
 
@@ -38,9 +38,7 @@ This project is licensed under the MIT License.
 [Download Simple Calculator APK](https://drive.google.com/file/d/1A3JicrbjEvneT4VEeorOriL8EF-uCRn_/view?usp=sharing)
 
 Enjoy effortless calculations with SimpleCalc!
-## This is a Simple Calculator Android Application developed in Android Studio 
 
-These are the Application Screenshots
 
 
 
